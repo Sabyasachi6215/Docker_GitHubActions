@@ -41,3 +41,10 @@ Updating through GitHubActions :
 ![image](https://user-images.githubusercontent.com/54863241/195907250-d763e405-01de-44d8-8798-b7509717bca9.png)
 
 ![image](https://user-images.githubusercontent.com/54863241/195906634-41ec159d-36ac-4174-aa01-c2b63a671782.png)
+
+Step 7 :
+
+Check the pushed image in dockerhub
+![image](https://user-images.githubusercontent.com/54863241/195913449-78b2d123-248d-4314-830a-5c4096d6fd69.png)
+
+
